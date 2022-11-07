@@ -17,5 +17,3 @@ The second function is to score student's codes with the answer codes. Student's
 
 If you want to execute this program, at first, clone my git address and do 'make' command to build an executable file.
 If you did above recommendations, do 'sudo ./ssu_score -h' to know how to use the program and if you are well-acquainted with the former informations, do 'sudo ./ssu_score [STUDENT_DIRECTORY] [ANSWER_DIRECTORY] [OPTIONS]'
-
-If you want to know how to use this program, I recommend you to use '-h' option.
